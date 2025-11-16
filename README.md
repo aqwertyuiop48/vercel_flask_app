@@ -1,7 +1,5 @@
 # flask-vercel
 
-### Flask app URL: https://vercel.com/sreegithub19/flask-vercel-1
-
 ### Flask app name: flask-vercel-1
 
 This repo is to test the deploy to Vercel
@@ -50,22 +48,6 @@ Vercel CLI 23.0.1
 ? What’s your project’s name? flask-vercel-1
 ? In which directory is your code located? ./
 ...
-```
-
-```
-Next time onwards:
-
-$ vercel
-Vercel CLI 28.7.2
-? Set up and deploy “~/Desktop/vercel_flask_app”? [Y/n] y
-? Which scope do you want to deploy to? sreegithub19
-? Link to existing project? [y/N] y
-? What’s the name of your existing project? flask-vercel-1
-🔗  Linked to sreegithub19/flask-vercel-1 (created .vercel)
-🔍  Inspect: https://vercel.com/sreegithub19/flask-vercel-1/8UmoRDJ9VKJeemi9kJixHP66XKgv [11s]
-✅  Preview: https://flask-vercel-1-sreegithub19.vercel.app [24s]
-📝  To deploy to production (flask-vercel-1-sand.vercel.app), run `vercel --prod`
-❗️  Due to `builds` existing in your configuration file, the Build and Development Settings defined in your Project Settings will not apply. Learn More: https://vercel.link/unused-build-settings
 ```
 
 Done! You should access your very simple flask app running on Vercel
