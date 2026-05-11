@@ -32,9 +32,9 @@ In case of this error: "Another git process seems to be running in this reposito
  - rm -f .git/index.lock
  
 - Mac:
-  - git add . && git commit -m "Changes" && git push origin master
+  - git add . && git commit -m "Changes" && git push origin main
 - Windows: 
-  - git add . ; git commit -m "Changes" ; git push origin master
+  - git add . ; git commit -m "Changes" ; git push origin main
 - Then, inside your repo folder, run `vercel`.
 
 ```
